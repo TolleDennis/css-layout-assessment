@@ -75,7 +75,7 @@ git commit -m "Initial commit"
 And then:
 
 ```
-texttwogit remote add origin PASTE_HERE_THE_LINK_ON_YOUR_CLIPBOARD
+texttwocolgit remote add origin PASTE_HERE_THE_LINK_ON_YOUR_CLIPBOARD
 ```
 
 Finally, run:
