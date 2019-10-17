@@ -60,4 +60,6 @@ nav a {
 
 .feature {
     width: 200px;
+    float: left;
+    padding: 0.4em 0.4em 0em 0.4em;
 }
